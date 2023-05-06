@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b4fbe18b-28bc-4eda-8140-ec52e9c746f2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2ONK4AFD9tHUu2oyB9F6h5l09OC" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="spring.boot" />
+  </component>
+  <component name="RunManager" selected="JUnit.KafkaProducerIT">
+    <configuration name="KafkaProducerIT" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="kafka_study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example" />
+      <option name="MAIN_CLASS_NAME" value="com.example.KafkaProducerIT" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KafkaProducerIT.should_send_kafka_message" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="kafka_study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example" />
+      <option name="MAIN_CLASS_NAME" value="com.example.KafkaProducerIT" />
+      <option name="METHOD_NAME" value="should_send_kafka_message" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.KafkaProducerIT" />
+        <item itemvalue="JUnit.KafkaProducerIT.should_send_kafka_message" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b4fbe18b-28bc-4eda-8140-ec52e9c746f2" name="Default Changelist" comment="" />
+      <created>1681395406003</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1681395406003</updated>
+      <workItem from="1681395410543" duration="3259000" />
+      <workItem from="1681460449807" duration="5603000" />
+      <workItem from="1682065426979" duration="3617000" />
+      <workItem from="1683375353885" duration="492000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="653" y="208" key="#com.intellij.ide.util.MemberChooser" timestamp="1681464688698">
+      <screen x="0" y="25" width="1680" height="947" />
+    </state>
+    <state x="653" y="208" key="#com.intellij.ide.util.MemberChooser/0.25.1680.947@0.25.1680.947" timestamp="1681464688698" />
+    <state width="1638" height="294" key="GridCell.Tab.0.bottom" timestamp="1683375685528">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="294" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1683375685528" />
+    <state width="1638" height="251" key="GridCell.Tab.0.bottom/0.25.1680.949@0.25.1680.949" timestamp="1681473686847" />
+    <state width="1638" height="251" key="GridCell.Tab.0.bottom/0.25.1680.951@0.25.1680.951" timestamp="1681466436356" />
+    <state width="1638" height="294" key="GridCell.Tab.0.center" timestamp="1683375685527">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="294" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1683375685527" />
+    <state width="1638" height="251" key="GridCell.Tab.0.center/0.25.1680.949@0.25.1680.949" timestamp="1681473686846" />
+    <state width="1638" height="251" key="GridCell.Tab.0.center/0.25.1680.951@0.25.1680.951" timestamp="1681466436355" />
+    <state width="1638" height="294" key="GridCell.Tab.0.left" timestamp="1683375685526">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="294" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1683375685526" />
+    <state width="1638" height="251" key="GridCell.Tab.0.left/0.25.1680.949@0.25.1680.949" timestamp="1681473686846" />
+    <state width="1638" height="251" key="GridCell.Tab.0.left/0.25.1680.951@0.25.1680.951" timestamp="1681466436354" />
+    <state width="1638" height="294" key="GridCell.Tab.0.right" timestamp="1683375685527">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="294" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1683375685527" />
+    <state width="1638" height="251" key="GridCell.Tab.0.right/0.25.1680.949@0.25.1680.949" timestamp="1681473686847" />
+    <state width="1638" height="251" key="GridCell.Tab.0.right/0.25.1680.951@0.25.1680.951" timestamp="1681466436356" />
+    <state x="349" y="134" key="SettingsEditor" timestamp="1681462374565">
+      <screen x="0" y="25" width="1680" height="947" />
+    </state>
+    <state x="349" y="134" key="SettingsEditor/0.25.1680.947@0.25.1680.947" timestamp="1681462374565" />
+    <state width="500" height="445" key="SwitcherDM" timestamp="1682087053311">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="500" height="445" key="SwitcherDM/0.0.1680.1050@0.0.1680.1050" timestamp="1682087053311" />
+    <state width="500" height="402" key="SwitcherDM/0.25.1680.947@0.25.1680.947" timestamp="1681465039461" />
+    <state width="500" height="403" key="SwitcherDM/0.25.1680.949@0.25.1680.949" timestamp="1681466029558" />
+    <state width="500" height="436" key="SwitcherDM/0.25.1680.951@0.25.1680.951" timestamp="1681466414572" />
+    <state x="500" y="289" width="680" height="472" key="find.popup" timestamp="1682087000482">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="500" y="289" width="680" height="472" key="find.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1682087000482" />
+  </component>
+</project>

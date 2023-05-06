@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: kafka_study
+  kafka:
+    producer:
+      retries: 5
+      topics:
+        kafka-study-topic: kafka-study-topic
+    bootstrap-servers: localhost:9092
